@@ -22,6 +22,6 @@ I'm a 2nd year engineering student specialized in robotics at Centrale Nantes, a
 All of my robotics-related projects are hosted on the [Baxterminator](https://github.com/Baxterminator) organisation. Here are some core projects of mine:
 
 <p align="center">
-<a href="https://github.com/Baxterminator/ecn_baxter"><img width="350" src="https://svg.bookmark.style/api?url=https://github.com/Baxterminator/ecn_baxter&mode=dark" alt="ecn_baxter"/></a>
+<a href="https://github.com/Baxterminator/ecn_baxter"><img width="350" src="https://svg.bookmark.style/api?url=https://github.com/Baxterminator/ecn_baxte&mode=dark" alt="ecn_baxter"/></a>
 <a href="https://github.com/Baxterminator/ecn_robotics"><img width="350" src="https://svg.bookmark.style/api?url=https://github.com/Baxterminator/ecn_robotics&mode=dark" alt="ecn_robotics"/></a>
 </p>
