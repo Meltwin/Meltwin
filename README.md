@@ -23,5 +23,5 @@ All of my robotics-related projects are hosted on the [Baxterminator](https://gi
 
 <p align="center">
 <a href="https://github.com/Baxterminator/ecn_baxter"><img width="350" src="https://svg.bookmark.style/api?url=https://github.com/Baxterminator/ecn_baxter&mode=dark" alt="ecn_baxter"/></a>
-<a href="https://github.com/Baxterminator/ecn_utils"><img width="350" src="https://svg.bookmark.style/api?url=https://github.com/Baxterminator/ecn_utils&mode=dark" alt="ecn_utils"/></a>
+<a href="https://github.com/Baxterminator/ecn_robotics"><img width="350" src="https://svg.bookmark.style/api?url=https://github.com/Baxterminator/ecn_robotics&mode=dark" alt="ecn_robotics"/></a>
 </p>
