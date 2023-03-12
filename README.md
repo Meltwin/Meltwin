@@ -1,3 +1,5 @@
+![header](github-header-image.png)
+
 I'm a 2nd year engineering student specialized in robotics at Centrale Nantes, a French university.
 <p align="center">
 <picture>
