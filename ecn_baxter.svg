@@ -13,10 +13,10 @@
             </style>
             <div class="row">
               <div class="col">
-                  <div><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/></div>
-                  <div><img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="C++"/></div>
+                  <div><img src="![CDATA[https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white]]" alt="C++"/></div>
+                  <div><img src="![CDATA[https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white]]" alt="C++"/></div>
               </div>
-              <img src="https://svg.bookmark.style/api?url=https://github.com/Baxterminator/ecn_baxter&style=horizontal" alt="ecn_baxter"/>
+              <img src="![CDATA[https://svg.bookmark.style/api?url=https://github.com/Baxterminator/ecn_baxter&style=horizontal]]" alt="ecn_baxter"/>
           </div>
         </div>
     </foreignObject>
