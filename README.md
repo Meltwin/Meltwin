@@ -40,6 +40,7 @@ I also make some projects around the game Minecraft, especially with the Vitteri
   
 | <a href="https://github.com/Meltwin/ScyBlaster"><img width="350" src="https://svg.bookmark.style/api?url=https://github.com/Meltwin/ScyBlaster&mode=dark" alt="scyblaster"/></a> | <a href="https://github.com/Ayrking/VitBox"><img width="350" src="https://svg.bookmark.style/api?url=https://github.com/Ayrking/VitBox&mode=dark" alt="VitBox"/></a> |
 | :-: | :-: |
-|<img src="https://wakatime.com/badge/user/25cce00f-2b5f-414e-92eb-76973a743ea4/project/fb5b2091-fd3a-4925-bd91-19853b2ae997.svg?style=for-the-badge" alt="fdfd"> | No Wakatime data |
+|API ⤇ <img align="right" src="https://wakatime.com/badge/user/25cce00f-2b5f-414e-92eb-76973a743ea4/project/fb5b2091-fd3a-4925-bd91-19853b2ae997.svg?style=for-the-badge" alt="fdfd"> | No Wakatime data |
+DATA ⤇ <img align="right" src="https://wakatime.com/badge/user/25cce00f-2b5f-414e-92eb-76973a743ea4/project/3cab1cf5-2fb9-468c-8f64-1a52c57977d1.svg?style=for-the-badge" alt="wakatime">  |
 
 </div>
