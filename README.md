@@ -24,29 +24,22 @@ I'm a robotic graduate student in a double degree between Centrale Nantes (FR) a
 ## Robotics
 
 All of my robotics-related projects are hosted on the [Baxterminator](https://github.com/Baxterminator) organisation. Here are some core projects of mine:
+<div align="center">
+  
+| <a href="https://github.com/Baxterminator/ecn_baxter"><img width="350" src="https://svg.bookmark.style/api?url=https://github.com/Baxterminator/ecn_baxter&mode=dark" alt="ecn_baxter"/></a> | <a href="https://github.com/Baxterminator/IntraTubular-PRM/"><img width="350" src="https://svg.bookmark.style/api?url=https://github.com/Baxterminator/IntraTubular-PRM&mode=dark" alt="intratubular-prm"/></a> |
+| :-: | :-: |
+| <img src="https://wakatime.com/badge/user/25cce00f-2b5f-414e-92eb-76973a743ea4/project/f252073d-3f5b-4b76-9fa2-da8b66802ed9.svg?style=for-the-badge" alt="wakatime"> | No Wakatime data |
 
-<p align="center">
-<a href="https://github.com/Baxterminator/ecn_baxter"><img width="350" src="https://svg.bookmark.style/api?url=https://github.com/Baxterminator/ecn_baxter&mode=dark" alt="ecn_baxter"/></a>
-<a href="https://github.com/Baxterminator/ecn_robotics"><img width="350" src="https://svg.bookmark.style/api?url=https://github.com/Baxterminator/ecn_robotics&mode=dark" alt="ecn_robotics"/></a>
-</p>
+</div>
+
 
 ## Minecraft
 
 I also make some projects around the game Minecraft, especially with the Vitteria's team I'm in. You can found most of my Minecraft-related works on the [Ayrking](https://github.com/Ayrking) organisation !
+<div align="center">
+  
+| <a href="https://github.com/Meltwin/ScyBlaster"><img width="350" src="https://svg.bookmark.style/api?url=https://github.com/Meltwin/ScyBlaster&mode=dark" alt="scyblaster"/></a> | <a href="https://github.com/Ayrking/VitBox"><img width="350" src="https://svg.bookmark.style/api?url=https://github.com/Ayrking/VitBox&mode=dark" alt="VitBox"/></a> |
+| :-: | :-: |
+|<img src="https://wakatime.com/badge/user/25cce00f-2b5f-414e-92eb-76973a743ea4/project/fb5b2091-fd3a-4925-bd91-19853b2ae997.svg?style=for-the-badge" alt="fdfd"> | No Wakatime data |
 
-<table style="text-align:center;width=100%">
-  <tr>
-    <td>
-      <a href="https://github.com/Meltwin/ScyBlaster"><img width="350" src="https://svg.bookmark.style/api?url=https://github.com/Meltwin/ScyBlaster&mode=dark" alt="scyblaster"/></a>
-    </td>
-    <td>
-      <a href="https://github.com/Ayrking/VitBox"><img width="350" src="https://svg.bookmark.style/api?url=https://github.com/Ayrking/VitBox&mode=dark" alt="VitBox"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-<img src="https://wakatime.com/badge/user/25cce00f-2b5f-414e-92eb-76973a743ea4/project/fb5b2091-fd3a-4925-bd91-19853b2ae997.svg?style=for-the-badge" alt="fdfd">
-    </td>
-    <td></td>
-  </tr>
-</table>
+</div>
