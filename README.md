@@ -1,6 +1,6 @@
 ![header](github-header-image.png)
 
-I'm a robotic graduate student in a double degree between Centrale Nantes (FR) and DTU (DK).
+I'm a junior robotic engineer with a double degree between Centrale Nantes (FR) and DTU (DK).
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meltwin&theme=nord_dark">
